@@ -1,0 +1,17 @@
+
+
+# Font Options
+# normal = { family = "<string>", stye = "<string>" }
+
+normal = { family = "terminus", style = "Regular" }
+bold = { style = "Bold" }
+italic = { style = "Italic" }
+bold_italic = { family = "Bold Italic" }
+size = 11.5
+
+# opacity = <float>
+opacity = 0.75
+
+
+
+
